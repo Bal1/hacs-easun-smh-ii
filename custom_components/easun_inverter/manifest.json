@@ -2,7 +2,9 @@
         "domain": "easun_inverter",
         "name": "EASUN Inverter Integration",
         "documentation": "https://github.com/bal1/hacs-easun-smh-ii",
+        "issue_tracker": "https://github.com/bal1/hacs-easun-smh-ii",
+        "codeowners": ["@bal1"],
         "requirements": ["pyserial"],
         "iot_class": "local_polling",
         "version": "0.1.0"
-}
+    }
